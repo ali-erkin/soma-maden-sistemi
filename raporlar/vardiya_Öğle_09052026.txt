@@ -3,45 +3,45 @@
 ════════════════════════════════
 Tarih    : 09.05.2026
 Vardiya  : Öğle
-Sorumlu  : Veli
+Sorumlu  : Hasan
 ────────────────────────────────
 Araç     : 34 ABC 001 | Mehmet Yılmaz
 Durum    : Çalışıyor
 Tur      : 4
 Tonaj    : 120 ton
-Km       : 23.0 km
-Yakit    : 1035.0 TL
+Km       : 21.5 km
+Yakit    : 967.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 002 | Ahmet Kaya
 Durum    : Çalışıyor
-Tur      : 5
-Tonaj    : 150 ton
-Km       : 21.7 km
-Yakit    : 976.5 TL
+Tur      : 3
+Tonaj    : 90 ton
+Km       : 22.7 km
+Yakit    : 1021.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 003 | Hüseyin Demir
 Durum    : Çalışıyor
-Tur      : 4
-Tonaj    : 120 ton
-Km       : 19.3 km
-Yakit    : 868.5 TL
+Tur      : 5
+Tonaj    : 150 ton
+Km       : 24.6 km
+Yakit    : 1107.0 TL
 ────────────────────────────────
 Araç     : 34 ABC 004 | Mustafa Çelik
 Durum    : Çalışıyor
-Tur      : 3
-Tonaj    : 90 ton
-Km       : 23.2 km
-Yakit    : 1044.0 TL
+Tur      : 5
+Tonaj    : 150 ton
+Km       : 24.4 km
+Yakit    : 1098.0 TL
 ────────────────────────────────
 Araç     : 34 ABC 005 | İbrahim Şahin
 Durum    : Çalışıyor
-Tur      : 5
-Tonaj    : 150 ton
-Km       : 23.2 km
-Yakit    : 1044.0 TL
+Tur      : 3
+Tonaj    : 90 ton
+Km       : 20.5 km
+Yakit    : 922.5 TL
 ────────────────────────────────
-TOPLAM TON   : 630 ton
-TOPLAM KM    : 110.4 km
-TOPLAM YAKIT : 4968.0 TL
+TOPLAM TON   : 600 ton
+TOPLAM KM    : 113.7 km
+TOPLAM YAKIT : 5116.5 TL
 SONUC        : Hedef Asildi!
 ════════════════════════════════

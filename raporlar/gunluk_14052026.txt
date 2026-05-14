@@ -4,9 +4,9 @@
 Tarih         : 14.05.2026
 ────────────────────────────────
 Sabah : 450 ton → Hedef Tutturulamadi!
-Öğle : 390 ton → Hedef Tutturulamadi!
-Gece : 540 ton → Hedef Asildi!
+Öğle : 360 ton → Hedef Tutturulamadi!
+Gece : 570 ton → Hedef Asildi!
 ────────────────────────────────
 GÜNLÜK TON   : 1380 ton
-GÜNLÜK YAKIT : 10080.0 TL
+GÜNLÜK YAKIT : 10471.5 TL
 ════════════════════════════════

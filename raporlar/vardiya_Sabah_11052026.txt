@@ -7,41 +7,41 @@ Sorumlu  : Hasan
 ────────────────────────────────
 Araç     : 34 ABC 001 | Mehmet Yılmaz
 Durum    : Çalışıyor
-Tur      : 4
-Tonaj    : 120 ton
-Km       : 20.1 km
-Yakit    : 904.5 TL
+Tur      : 5
+Tonaj    : 150 ton
+Km       : 20.3 km
+Yakit    : 913.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 002 | Ahmet Kaya
-Durum    : Arıza
-Tur      : 0
-Tonaj    : 0 ton
-Km       : 0 km
-Yakit    : 0 TL
+Durum    : Çalışıyor
+Tur      : 5
+Tonaj    : 150 ton
+Km       : 20.3 km
+Yakit    : 913.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 003 | Hüseyin Demir
 Durum    : Çalışıyor
-Tur      : 3
-Tonaj    : 90 ton
-Km       : 25.0 km
-Yakit    : 1125.0 TL
+Tur      : 5
+Tonaj    : 150 ton
+Km       : 20.3 km
+Yakit    : 913.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 004 | Mustafa Çelik
 Durum    : Çalışıyor
 Tur      : 5
 Tonaj    : 150 ton
-Km       : 19.3 km
-Yakit    : 868.5 TL
+Km       : 21.5 km
+Yakit    : 967.5 TL
 ────────────────────────────────
 Araç     : 34 ABC 005 | İbrahim Şahin
 Durum    : Çalışıyor
-Tur      : 4
-Tonaj    : 120 ton
-Km       : 24.1 km
-Yakit    : 1084.5 TL
+Tur      : 3
+Tonaj    : 90 ton
+Km       : 22.2 km
+Yakit    : 999.0 TL
 ────────────────────────────────
-TOPLAM TON   : 480 ton
-TOPLAM KM    : 88.5 km
-TOPLAM YAKIT : 3982.5 TL
-SONUC        : Hedef Tutturulamadi. Fark: 20 ton
+TOPLAM TON   : 690 ton
+TOPLAM KM    : 104.6 km
+TOPLAM YAKIT : 4707.0 TL
+SONUC        : Hedef Asildi!
 ════════════════════════════════

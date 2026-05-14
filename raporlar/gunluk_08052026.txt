@@ -3,10 +3,10 @@
 ════════════════════════════════
 Tarih         : 08.05.2026
 ────────────────────────────────
-Sabah : 630 ton → Hedef Asildi!
-Öğle : 480 ton → Hedef Tutturulamadi!
-Gece : 630 ton → Hedef Asildi!
+Sabah : 450 ton → Hedef Tutturulamadi!
+Öğle : 570 ton → Hedef Asildi!
+Gece : 420 ton → Hedef Tutturulamadi!
 ────────────────────────────────
-GÜNLÜK TON   : 1740 ton
-GÜNLÜK YAKIT : 13846.5 TL
-SONUC        : Gunluk Hedef Asildi!
+GÜNLÜK TON   : 1440 ton
+GÜNLÜK YAKIT : 12370.5 TL
+════════════════════════════════
